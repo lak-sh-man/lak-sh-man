@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning <strong>Data analytic skills</strong>
 - 💬 Ask me about <strong>Python, SQL, OOPS, DSA</strong>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/lakshman-n-1aaa9a240/" target="_blank">Lakshman</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/lakshman-n-1aaa9a240/" target="_blank">Linkedin</a>
 
