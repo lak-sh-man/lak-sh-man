@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align-"center">Hi there, I am Lakshman 👋</h1>
 
-- 🌱 I’m currently learning <strong>Data analytic skills</strong>
+- 🌱 I’m a passionate <strong>Pyhton programmer </strong>
 - 💬 Ask me about <strong>Python, SQL, OOPS, DSA</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/lakshman-n-1aaa9a240/" target="_blank">Linkedin</a>
 
