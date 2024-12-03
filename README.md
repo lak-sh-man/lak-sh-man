@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <h1 align-"center">Hi there, I am Lakshman 👋</h1>
 
 - 🌱 I’m a passionate <strong>Pyhton programmer </strong>
-- 💬 Ask me about <strong>Python, SQL, OOPS, DSA</strong>
+- 💬 Ask me about <strong>🎯Python Developer ┆ OOPS ┆ Flask ┆ Django ┆ FastAPI ┆ Jinja ┆ HTML5 ┆ CSS ┆ Git and GitHub ┆ Postman ┆ Docker</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/lakshman-n-1aaa9a240/" target="_blank">Linkedin</a>
 
